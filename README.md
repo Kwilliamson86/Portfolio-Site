@@ -2,7 +2,7 @@
 
 👋 Welcome to my personal developer portfolio, where I showcase my projects, skills, and love for clean code.
 
-🚀 **Live Site:** [View My Portfolio](https://yourusername.github.io/portfolio-site/)
+🚀 **Live Site:** [View My Portfolio](https://kwilliamson86.github.io/Portfolio-Site/)
 
 ## 🔧 Built With
 - HTML5
@@ -22,6 +22,6 @@
 ---
 
 ### 📬 Let’s Connect
-- [LinkedIn](https://linkedin.com/in/yourname)
-- [GitHub](https://github.com/yourusername)
-- Email: youremail@example.com
+- [LinkedIn](www.linkedin.com/in/kevin-williamson-sd)
+- [GitHub](https://github.com/Kwilliamson86)
+- Email: Williamson.kevin86@protonmail.com
